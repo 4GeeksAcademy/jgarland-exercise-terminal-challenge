@@ -1,0 +1,20 @@
+cd thecmdchallenge/
+pwd
+ls -a -l
+tree
+clear
+cd small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+nano trophy.txt
+cd ../../../..
+cd funcode/
+ls *js -l -a
+cd the-most-funny/
+mkdir not-that-funny
+cp /workspaces/jgarland-exercise-terminal-challenge/thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt /workspaces/jgarland-exercise-terminal-challenge/thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/lol.txt
+cd ../../../..
+cd funcode/
+mv /workspaces/jgarland-exercise-terminal-challenge/thecmdchallenge/funcode/kids.jpg /workspaces/jgarland-exercise-terminal-challenge/thecmdchallenge/funcode/images/hello
+cd ../../..
+rm -r -f small-name/
+nano /workspaces/jgarland-exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol/the-ultimate-joke.txt
+nano kamehameha/dragon-ball-jokes.md
